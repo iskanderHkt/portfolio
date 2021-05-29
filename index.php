@@ -87,11 +87,12 @@
 						<div class="col-md-6  col-sm-6 col-xs-12">
 							<div class="single-about">
 								<p class="bolt">Something else about myself.</p>
-								<p>I was born in Bishkek, Kyrgyzstan. I studied at the gymnasium school number 17. I lived and live in the neighborhood of microdistricts. Since high school,
-									I was attracted to the PC, but at first it was just for fun with video games, but the older I got, the more interesting it was for me to learn how the PC works.
-									Because of that I entered in IAU college to learn programming and other things.	
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+								Doloremque beatae ad dolor eius impedit nulla incidunt praesentium tempora facere reiciendis.
+								 Assumenda quidem vero vel illo. Beatae qui officiis recusandae dolorum.	
 								</p>
-								<p class="bolt">My main points in programming it's learn web-development and game-development</p>
+								<p class="bolt">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+								.</p>
 								<div class="social">
 									<ul>
 										
@@ -129,8 +130,9 @@
 										<h3>ABOUT MY SKILLS</h3>
 										
 										<p> I started to learn html & css in school but not a lot and in college I forgoted many things.</p>
-										<p><b> In college I started to learn C++ and Python, but preferred C++ and learned not only basics of that language.
-											But for me that programming language was a little bit hard, because of that now I'm continue to learn web-dev. </b></p>
+										<p><b> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+										Doloremque beatae ad dolor eius impedit nulla incidunt praesentium tempora facere reiciendis.
+								 		Assumenda quidem vero vel illo. Beatae qui officiis recusandae dolorum.. </b></p>
 									</div>
 								</div>
 								<div class="col-md-6 col-sm-12 col-xs-12">
@@ -198,8 +200,9 @@
 								<div class="inner-content wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
 									<h3>Started to learn HTML5 & CSS3</h3>
 									
-									<p class="p2">In that year (at 7th class of my school I started to learn web (html&css). Because of I was just a schoolboy,
-										a lot of things i understanded not fully.
+									<p class="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+								Doloremque beatae ad dolor eius impedit nulla incidunt praesentium tempora facere reiciendis.
+								 Assumenda quidem vero vel illo. Beatae qui officiis recusandae dolorum.
 									</p>
 								</div>
 							</div>
@@ -209,8 +212,9 @@
 								<div class="inner-content wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
 									<h3>Entered to AIU's college</h3>
 									
-									<p class="p2">When I started to learn in that college, first language what I become to learn is Python.
-										For me that language in first time shows like a simple language. And all 1st year and half of 2nd year I sometimes practice in Python.
+									<p class="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+								Doloremque beatae ad dolor eius impedit nulla incidunt praesentium tempora facere reiciendis.
+								 Assumenda quidem vero vel illo. Beatae qui officiis recusandae dolorum.
 									</p>
 								</div>
 							</div>
@@ -220,8 +224,9 @@
 								<div class="inner-content wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.8s">
 									<h3>Learning C++ and continue to learn WEB</h3>
 									
-									<p class="p2">Second year in college I started to learn C++ in college and sometimes by my self, but now I just continue to learn HTML & CSS,
-										and will learn JavaScript etc.
+									<p class="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+								Doloremque beatae ad dolor eius impedit nulla incidunt praesentium tempora facere reiciendis.
+								 Assumenda quidem vero vel illo. Beatae qui officiis recusandae dolorum.
 									</p>
 								</div>
 							</div>
